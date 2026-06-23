@@ -1,3 +1,7 @@
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Linux](https://img.shields.io/badge/Amazon%20Linux-2023-yellow)
+![Shell](https://img.shields.io/badge/Shell-Bash-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 # Laboratório - Explorando a AWS com Amazon EC2 ☁️🚀
 
 ## Objetivo

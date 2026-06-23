@@ -11,7 +11,14 @@ Provisionar uma instância Amazon EC2 utilizando AWS CLI e CloudShell, configura
 - Amazon Linux 2023
 
 ## Arquitetura
-AWS CloudShell → AWS CLI → Amazon EC2 (t2.micro) → Apache HTTP Server → Página Web
+
+![AWS EC2 Architecture](docs/images/aws-ec2-architecture-diagram.jpg)
+
+A arquitetura utiliza AWS CloudShell e AWS CLI para provisionar uma instância Amazon EC2 (Amazon Linux 2023), configurando um Security Group com acesso HTTP e implantando automaticamente um servidor Apache.
+
+## Documentação
+
+📄 [AWS EC2 Lab Report](docs/aws-ec2-lab-report.pdf)
 
 ## Funcionalidades
 - Criação automática de Security Group
@@ -23,9 +30,11 @@ AWS CloudShell → AWS CLI → Amazon EC2 (t2.micro) → Apache HTTP Server → 
 - Limpeza dos recursos criados
 
 ## Arquivos do Projeto
+
 - `lab-ec2-escola-da-nuvem.sh` – Script de automação do laboratório
-- `README.md` – Documentação do projeto
-- `screenshots/` – Evidências do laboratório
+- `README.md` – Documentação principal do projeto
+- `docs/aws-ec2-lab-report.pdf` – Relatório completo do laboratório
+- `docs/images/aws-ec2-architecture-diagram.jpg` – Diagrama da arquitetura AWS
 
 ## Autor
 Diego Henrique de Araújo  

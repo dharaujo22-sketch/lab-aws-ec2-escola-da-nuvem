@@ -40,6 +40,23 @@ A arquitetura utiliza AWS CloudShell e AWS CLI para provisionar uma instância A
 - `docs/aws-ec2-lab-report.pdf` – Relatório completo do laboratório
 - `docs/images/aws-ec2-architecture-diagram.jpg` – Diagrama da arquitetura AWS
 
+- ## Como Executar
+
+```bash
+chmod +x lab-ec2-escola-da-nuvem.sh
+./lab-ec2-escola-da-nuvem.sh
+
+
+---
+
+#### 3. Melhore a seção Autor
+
+```markdown
 ## Autor
-Diego Henrique de Araújo  
-Engenheiro Eletrotécnico | Estudante AWS Cloud Practitioner | Escola da Nuvem
+
+**Diego Henrique de Araújo**
+
+- Electrotechnical Engineer
+- AWS Cloud Practitioner Student
+- Escola da Nuvem
+- GitHub: https://github.com/dharaujo22-sketch
